@@ -5,5 +5,3 @@ This directory contains all of my assignments from the Coursera Course: [Introdu
 * #### Week 2 : [Agile Planning](https://www.coursera.org/learn/agile-development-and-scrum/home/week/2)
 * #### Week 3 : [ Daily Execution](https://www.coursera.org/learn/agile-development-and-scrum/home/week/3)
 * #### Week 4 : [[Optional] HONORS Project - Create an Agile Plan with ZenHub](https://www.coursera.org/learn/agile-development-and-scrum/home/week/4)
-## Certificate
-![Certfificate]("C:\Users\Sai krishna\OneDrive\Pictures\Coursera Certificate.png")
